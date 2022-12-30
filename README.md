@@ -1,5 +1,5 @@
 # Categoria
-This was a project I did for [@appteamcarolina](https://github.com/appteamcarolina) with a classmate of mine. It is a trivia game where the user gets 5 questions in a category of their choice.
+This was a project I did for [@appteamcarolina](https://github.com/appteamcarolina) with a classmate of mine, [@eneseroglu](https://github.com/eneseroglu). It is a trivia game where the user gets 5 questions in a category of their choice.
 
 ## Screenshots:
 <div align=left>
